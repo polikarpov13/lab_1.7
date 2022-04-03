@@ -1,0 +1,7 @@
+﻿  lab_1.7.cpp
+  Money.cpp
+E:\Політех\ооп\lab_1.7\lab_1.7\Money.cpp(102,21): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+E:\Політех\ооп\lab_1.7\lab_1.7\Money.cpp(110,21): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+  Payment.cpp
+  Создание кода...
+  lab_1.7.vcxproj -> E:\Політех\ооп\lab_1.7\Debug\lab_1.7.exe
